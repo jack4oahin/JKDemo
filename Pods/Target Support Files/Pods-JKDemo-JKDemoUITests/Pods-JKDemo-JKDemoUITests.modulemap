@@ -1,0 +1,6 @@
+framework module Pods_JKDemo_JKDemoUITests {
+  umbrella header "Pods-JKDemo-JKDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

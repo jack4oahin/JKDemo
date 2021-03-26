@@ -1,0 +1,23 @@
+{
+  "name": "demo",
+  "version": "0.0.1",
+  "summary": "主题",
+  "description": "描述",
+  "homepage": "git地址或者网址",
+  "license": "MIT",
+  "authors": {
+    "Xin Wang": "598286768@qq.com"
+  },
+  "source": {
+    "git": "git地址",
+    "tag": "打包版本0.0.1"
+  },
+  "source_files": "src/*.{h,m}",
+  "public_header_files": "src/*.h",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}
